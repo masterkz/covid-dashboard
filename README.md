@@ -3,7 +3,7 @@ This is a simple personalised covid dashboard.\
 Dashboard application will coordinate information about the COVID infection rates from the Public Health England API and news stories about Covid from a given news API.
 # Installation
 Firstly you need to clone this repository\
-`git clone `\
+`git clone https://github.com/masterkz/covid-dashboard.git `\
 Once the project is cloned, you also need to install the dependencies using the command pip install -r requirements.txt from the root folder of the project\
 `pip install -r requirements.txt`
 # Launching
