@@ -1,0 +1,15 @@
+# configuration file
+{
+    "api_key": "8147430c4ea4487b8d69e63db715ec42",
+    "path_to_image": "/static/img/",
+    "image": "covid.jpg",
+    "title": "Covid-19 Dashboard",
+    "local_location": "Exeter",
+    "nation_location": "England",
+    "local_type": "ltla",
+    "nation_type": "nation",
+    "secret_key": "covid19_uk_baiterek",
+    "news_link": "https://newsapi.org/v2/top-headlines",
+    "covid_terms": "covid",
+    "file_log": "record.log"
+}

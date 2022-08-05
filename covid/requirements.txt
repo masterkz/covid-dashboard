@@ -1,0 +1,7 @@
+Flask
+pytest
+uk_covid19
+pandas
+datetime
+sched
+requests
